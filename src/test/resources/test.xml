@@ -1,0 +1,7 @@
+<container width="500" height="500">
+    <block height="250" background="#D92F34"></block>
+    <block posX="250" width="250" height="250" background="#7D95DB"></block>
+    <block posY="300" posX="50" width="400" height="150" background="#FCD628"></block>
+    <block posY="10" posX="300" height="250" path="bugs.png"></block>
+    <block posX="20" path="coyote.png"></block>
+</container>
