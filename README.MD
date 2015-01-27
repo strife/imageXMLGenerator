@@ -14,9 +14,9 @@ which one layer can be hidden with another one. It also supports transparency.
  * Java 1.6+
  * Maven 3.0+
 
- ### Getting started
+### Getting started
 
- You can use jars or Maven.
+You can use jars or Maven.
 
 Usage
 -----
@@ -60,7 +60,7 @@ try {
 
 ### Example of generated image
 
-[[link]]
+![Example](https://raw.githubusercontent.com/strife/imageXMLGenerator/master/src/test/resources/test.jpg)
 
 Author
 ------
